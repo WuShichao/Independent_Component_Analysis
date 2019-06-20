@@ -7,6 +7,9 @@ ICA is an efficient technique to decompose linear mixtures of signals into their
 
 Here we will start by first importing the necessary libraries and creating some toy signals which we will use to develop and test our ICA implementation.
 
+# More materials for ICA 
+https://blog.csdn.net/ffeng271/article/details/7353881
+ 
 
 ```python
 import pandas as pd
